@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE note SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.5'
+ replicaid='48257BF900207A19'>
+<noteinfo noteid='322' unid='CF9FA5FC8198E1F9852577BA00079E08' sequence='5'>
+<created><datetime dst='true'>20101011T212312,08-04</datetime></created>
+<modified><datetime>20131003T141214,19+08</datetime></modified>
+<revised><datetime>20131003T141214,18+08</datetime></revised>
+<lastaccessed><datetime>20131003T141918,73+08</datetime></lastaccessed>
+<addedtofile><datetime>20131003T135449,19+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Declan Sciolla-Lynch/O=Imagination</name><name>CN=admin/O=R8Dev</name></updatedby>
+<wassignedby><name>CN=admin/O=R8Dev</name></wassignedby>
+<item name='$FormatNote' summary='true' sign='true'>
+<rawitemdata type='4'>
+AQD3s91nJmrKFyfsWADJdSWF
+</rawitemdata></item>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>Lookups\ForumAreasByForumID|lkp_ForumAreasByForumUID</text></item>
+<item name='$PublicAccess'><text>1</text></item>
+<item name='$Index' sign='true'><text>/O</text></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+fAAFAEIAPQAFAA8ACgAJAAkABABmb3J1bV9QYXJlbnRVSURmb3J1bV9Tb3J0Zm9ydW1fVUlEJENv
+bmZsaWN0JFJFRgAEAAQAAAAmAAUABABGb3JtAQASAGNvbnRlbnRfRm9ydW1BcmVhcwoCAwAHAA4A
+CAAJTDFTMlMzUw==
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+LAACAABEiGYHAAAPAIBmAA8ACQBmb3J1bV9QYXJlbnRVSURmb3J1bV9VSUQ=
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQADAEIAqXwAAFZDAwAPAA8AAAAAAFAAAQAACgABAAAAAAAAAAICAAAAVkMAAAoACgAAAAAAUAAB
+AAAKAAAAAAAAAAAAAgIAAABWQwEACQAJAAAAAABQAAEAAAoAAAAAAAAAAAACAgAAAGZvcnVtX1Bh
+cmVudFVJRGZvcnVtX1BhcmVudFVJRGZvcnVtX1NvcnRmb3J1bV9Tb3J0Zm9ydW1fVUlEZm9ydW1f
+VUlEJgABAAAAAQEACQEAAAoBAQ4KAAAvAK0rAQEBAAEAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAA
+AAAAAAAAAAAEAAAAAAD//wAAAAAAAAAAAAAAAAAAV0MBAQAJAAAAAAAAAAAAAAAAAAAAAAAABAAA
+AAAA//8AAAAAAAAAAAAAAAAAAFdDAQEACQAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAP//AAAAAAAA
+AAAAAAAAAABCABAAAAABAP///wABAPf39wABAAAAAAAAAAAAAAAAAAEAAAAAAAEAoKDFAAAAAQAA
+AAAAAQCAgIAAAQAAAAAAAAAIAAAAAAABAA==
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text>xTalk V1.1.01</text></item>
+<item name='$FrameInfo' sign='true'><textlist><text>MailFS</text><text>NotesView</text></textlist></item>
+<item name='$Flags'><text>Y</text></item>
+<item name='$WebFlags'><text>S</text></item>
+<item name='$DesignerVersion'><text>8.5.2</text></item>
+<item name='$ViewGlobalScript' summary='false' sign='true'><text>'++LotusScript Development Environment:2:5:(Options):0:74
+Option Public
+
+'++LotusScript Development Environment:2:5:(Forward):0:1
+
+'++LotusScript Development Environment:2:5:(Declarations):0:2
+
+<break/></text></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRzpAAAAAQABAAAAwRgAAAAAAAACAAAJGAAFAHn/bAABAGBgmAABAAAAAAABAAAAAAABANbX7wAD
+ACIAAAABAIIAAAADAAAAAgAACQAAAAAAAAAAE0AFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
+</rawitemdata></item>
+<item name='$ViewGlobalScript_O' sign='true'>
+<rawitemdata type='14'>
+AQAAAkxTT0IDABQIZW4AAAQAAAADAAAAAAAEAJgAAAAAAAAAAAAAAAAAAAA0AP//KAAAAP////9k
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAEABQBMb3R1cyBQcm9kdWN0AAAAVjAuMAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAwAAAAAAAAAEAAAAmAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA
+AAMAAABXMzJJJQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAwCcAAAAAABIABEAJABWAEkARQBXAEcATABPAEIAQQBMAFMAQwBSAEkAUABUAAAAfAADAE4A
+RQBXAAAAkAAGAEQARQBMAEUAVABFAAAAAAD//woASQBOAEkAVABJAEEATABJAFoARQAAAAAA//8J
+AFQARQBSAE0ASQBOAEEAVABFAAAA//8GAE8AQgBKAEUAQwBUAAAAAAD//wAAAAAAAAUACAAAAAAA
+8CtknwQABwAAAAAAHQAAAgAAABEAEAAAAAAA//8BAAMABAAAAAYACgAAANc=
+</rawitemdata></item></note>
+

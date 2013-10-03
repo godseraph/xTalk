@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE note SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.5'
+ replicaid='48257BF900207A19'>
+<noteinfo noteid='20a' unid='EBCE72C866278FF1852575E7004D2A94' sequence='9'>
+<created><datetime dst='true'>20090702T100251,72-04</datetime></created>
+<modified><datetime>20131003T141212,41+08</datetime></modified>
+<revised><datetime>20131003T141212,40+08</datetime></revised>
+<lastaccessed><datetime>20131003T141212,41+08</datetime></lastaccessed>
+<addedtofile><datetime>20131003T135447,79+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Declan Sciolla-Lynch/O=qtzar.com</name><name>CN=grumpy/O=qtzar.com</name><name
+>CN=Declan Sciolla-Lynch/O=qtzar.com</name><name>CN=Figment/O=Imagination</name><name
+>CN=Declan Sciolla-Lynch/O=Imagination</name><name>CN=admin/O=R8Dev</name></updatedby>
+<wassignedby><name>CN=admin/O=R8Dev</name></wassignedby>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>$$ViewTemplateDefault</text></item>
+<item name='$Info' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata></item>
+<item name='$Flags'><text/></item>
+<item name='$Comment' sign='true'><text>xTalk V1.0</text></item>
+<item name='$DesignerVersion' sign='true'><text>8.5</text></item>
+<item name='$$ScriptName' summary='false' sign='true'><text>$$ViewTemplateDefault</text></item>
+<item name='$Body' sign='true'>
+<rawitemdata type='1'>
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAhf8VAAEAAApBY2Nlc3MgRGVu
+aWVkAA==
+</rawitemdata></item></note>
+

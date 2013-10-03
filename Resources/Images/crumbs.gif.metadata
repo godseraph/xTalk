@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.5" replicaid="48257BF900207A19" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1ba" sequence="7" unid="F8BA81056FC4FCE7852575D2004BF5D3">
+<created><datetime dst="true">20090611T094941,31-04</datetime></created>
+<modified><datetime>20131003T141213,59+08</datetime></modified>
+<revised><datetime>20131003T141213,58+08</datetime></revised>
+<lastaccessed><datetime>20131003T141213,59+08</datetime></lastaccessed>
+<addedtofile><datetime>20131003T135447,39+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Declan Sciolla-Lynch/O=Imagination</name><name>CN=admin/O=R8Dev</name></updatedby>
+<wassignedby><name>CN=admin/O=R8Dev</name></wassignedby>
+<item name="$TITLE"><text>crumbs.gif</text></item>
+<item name="$Flags"><text>34CiQP</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+<item name="$MimeType" sign="true"><text>image/gif</text></item>
+<item name="$FileModDT" sign="true"><datetime>20090329T114413,15-05</datetime></item>
+<item name="$ImageNames" sign="true"><text>crumbs.gif</text></item>
+<item name="$Comment" sign="true"><text>xTalk V1.1</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.2</text></item></note>

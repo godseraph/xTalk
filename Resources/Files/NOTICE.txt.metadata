@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.5" replicaid="48257BF900207A19" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="212" sequence="8" unid="B6536F0EE9866234852575E7004F7765">
+<created><datetime dst="true">20090702T102759,09-04</datetime></created>
+<modified><datetime>20131003T141214,45+08</datetime></modified>
+<revised><datetime>20131003T141214,44+08</datetime></revised>
+<lastaccessed><datetime>20131003T141214,45+08</datetime></lastaccessed>
+<addedtofile><datetime>20131003T135447,83+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Declan Sciolla-Lynch/O=qtzar.com</name><name>CN=grumpy/O=qtzar.com</name><name>CN=Declan Sciolla-Lynch/O=qtzar.com</name><name>CN=Figment/O=Imagination</name><name>CN=Declan Sciolla-Lynch/O=Imagination</name><name>CN=admin/O=R8Dev</name></updatedby>
+<wassignedby><name>CN=admin/O=R8Dev</name></wassignedby>
+<item name="$TITLE"><text>NOTICE.txt</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$Comment" sign="true"><text>LICENSE INFORMATION</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5</text></item>
+
+<item name="$MimeType" sign="true"><text>text/plain</text></item>
+<item name="$FileModDT" sign="true"><datetime>20091123T141705,11-05</datetime></item>
+
+<item name="$Flags"><text>345CgQ</text></item>
+<item name="$FileNames" sign="true"><text>NOTICE.txt</text></item></note>

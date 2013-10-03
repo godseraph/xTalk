@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.5" replicaid="48257BF900207A19" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2a6" sequence="23" unid="FECD34FC0B196EDB852577B7006525F8">
+<created><datetime dst="true">20101009T142448,56-04</datetime></created>
+<modified><datetime>20131003T141212,97+08</datetime></modified>
+<revised><datetime>20131003T141212,96+08</datetime></revised>
+<lastaccessed><datetime>20131003T141212,97+08</datetime></lastaccessed>
+<addedtofile><datetime>20131003T135448,57+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Declan Sciolla-Lynch/O=Imagination</name><name>CN=admin/O=R8Dev</name></updatedby>
+<wassignedby><name>CN=admin/O=R8Dev</name></wassignedby>
+<item name="$TITLE"><text>browser_layout_footer.xsp</text></item>
+<item name="$Flags"><text>gC~4;</text></item>
+
+
+
+<item name="$Comment" sign="true"><text>xTalk V1.1</text></item>
+
+
+<item name="$FileNames" sign="true"><text>browser_layout_footer.xsp</text></item>
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
+
+</note>

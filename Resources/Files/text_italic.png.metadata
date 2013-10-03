@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.5" replicaid="48257BF900207A19" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="21e" sequence="7" unid="6D834F58FCA488578525764E006A9D7A">
+<created><datetime dst="true">20091013T152431,30-04</datetime></created>
+<modified><datetime>20131003T141214,73+08</datetime></modified>
+<revised><datetime>20131003T141214,72+08</datetime></revised>
+<lastaccessed><datetime>20131003T141214,73+08</datetime></lastaccessed>
+<addedtofile><datetime>20131003T135447,89+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Declan Sciolla-Lynch/O=qtzar.com</name><name>CN=Figment/O=Imagination</name><name>CN=Declan Sciolla-Lynch/O=Imagination</name><name>CN=admin/O=R8Dev</name></updatedby>
+<wassignedby><name>CN=admin/O=R8Dev</name></wassignedby>
+<item name="$TITLE"><text>text_italic.png</text></item>
+<item name="$Flags"><text>345CgQ</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+
+<item name="$FileModDT" sign="true"><datetime dst="true">20091013T151925,57-04</datetime></item>
+
+<item name="$FileNames" sign="true"><text>text_italic.png</text></item>
+<item name="$Comment" sign="true"><text>(c) 2009 FamFamFam - Licensed Under CC-A</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5</text></item></note>
